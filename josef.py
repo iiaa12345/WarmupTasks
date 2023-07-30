@@ -10,4 +10,6 @@ def jos(n):
 
 n = int(input('n = '))
 
-print(jos(n))
+result = jos(n)
+
+print(result)
